@@ -7,15 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<!-- Anggota Tim -->
-## Anggota Tim
-| NPM           | Name                              |
-| ------------- |-----------------------------------|
-| 140810210064  | Dimas Falah                       |
-| 140810210014  | Abyan Shidqi                      |
-| 140810220062  | Drias Ameliano Kevin David        |
-
-
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
